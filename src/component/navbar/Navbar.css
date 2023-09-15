@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.offer {
+    background-color: #d1e7dd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    border: 1px;
+}
+
+.offer .deal {
+    font-weight: 600;
+}
+
+.offer p {
+    margin-top: 10px;
+}
+
+.container-fluid {
+    background-color: #fffef5;
+    border-bottom: 1px rgb(161, 158, 158);
+}
+
+.navbar-brand {
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.list {
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.navbar-collapse {
+    height: 100px;
+    margin-bottom: 30px;
+}
+
+.nav {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.form-control {
+    width: 250px;
+    height: 45px;
+    border-color: #daa520;
+    opacity: 0.6;
+    border-width: 4px;
+}
