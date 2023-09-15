@@ -2,7 +2,7 @@ import React from 'react'
 import './hero.css'
 const Hero = () => {
     return (
-        <div className='hero-section d-flex'>
+        <div className="hero-section d-flex">
             <div className="hero">
                 <img src="image/banner.png" alt="" />
             </div>
