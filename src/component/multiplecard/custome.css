@@ -1,0 +1,33 @@
+.rand {
+    width: 100vw;
+    height: 100vh;
+}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.bg {
+    background-color: aqua;
+}
+
+.bg1 {
+    background-color: black;
+}
+
+.bg2 {
+    background-color: blue;
+}
+
+.bg3 {
+    background-color: brown;
+}
+
+.bg4 {
+    background-color: blueviolet;
+}

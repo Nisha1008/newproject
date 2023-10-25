@@ -51,25 +51,4 @@ export const BookList = [
         number: 3444,
         number2: 1273,
     }
-    ,
-    {
-        _id: 6,
-        bookImg: '/image/thumb_240_1604844102.png',
-        language: 'Hindi',
-        bookname: 'The diabetese Code',
-        author: 'by Dr. json fung',
-        summyWriter: 'JSON',
-        number: 3444,
-        number2: 1273,
-    },
-    {
-        _id: 7,
-        bookImg: '/image/thumb_240_1604844102.png',
-        language: 'Hindi',
-        bookname: 'The diabetese Code',
-        author: 'by Dr. json fung',
-        summyWriter: 'JSON',
-        number: 3444,
-        number2: 1273,
-    }
 ]
