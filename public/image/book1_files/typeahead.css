@@ -1,0 +1,47 @@
+.typeahead{
+    background-color: #fff;
+    min-width: 250px;
+}
+
+#topSearch >  ul.typeahead.dropdown-menu{
+    position: absolute;
+    top: 90px !important;
+}
+
+.typeahead li{
+    padding: 5px;
+}
+
+.typeahead li.active{
+    background-color: #eee;
+}
+
+#searchbox {
+    border: 5px solid rgb(247, 227, 187);
+    width: 100%; 
+}
+
+#searchbox:focus {
+    box-shadow: 0 0 10px rgb(238, 201, 129);
+}
+
+/* #searchbox-li {
+    width: 50%;
+    
+} */
+
+/* Mobile Query */
+@media (max-width: 480px) {
+    #topSearch >  ul.typeahead.dropdown-menu{
+        position: absolute;
+        top: 20rem !important;
+    }
+}
+
+/*Tablet Query*/
+@media only screen and (min-width: 481px) and (max-width:768px) {
+    #topSearch >  ul.typeahead.dropdown-menu{
+        position: absolute;
+        top: 20rem !important;
+    }
+}

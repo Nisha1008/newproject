@@ -2,11 +2,12 @@ import React from 'react'
 import './hero.css'
 const Hero = () => {
     return (
+
         <div className="hero-section d-flex">
             <div className="hero">
                 <img src="image/banner.png" alt="" />
             </div>
-            <div className='content'>
+            <div className='content-hero'>
                 <h1 className="heading">Listen & Learn</h1>
                 <p className="para">Choose from 130,000 online vedio courses with<br />
                     new published every month</p>

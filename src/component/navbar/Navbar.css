@@ -22,9 +22,15 @@
     margin-top: 10px;
 }
 
+.container-navbar {
+    position: fixed;
+    top: 0;
+    border-bottom: 1px solid #f5f5ec;
+    margin-bottom: 10px;
+}
+
 .container-fluid {
-    background-color: #fffef5;
-    border-bottom: 1px rgb(161, 158, 158);
+    background-color: #ffffff;
 }
 
 .navbar-brand {
@@ -38,7 +44,7 @@
 }
 
 .navbar-collapse {
-    height: 100px;
+    height: 80px;
     margin-bottom: 30px;
 }
 

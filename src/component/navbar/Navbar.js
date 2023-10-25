@@ -3,14 +3,14 @@ import './Navbar.css'
 const Navbar = () => {
     return (
         <div>
-            <div className="offer">
+            {/* <div className="offer">
                 <p className='deal'>SPECIAL OFFER</p>
                 <p>- sale ends on september 13 (IST).</p>
                 <p className='deal'>13 hour left</p>
-            </div>
+            </div> */}
 
             <nav className="navbar navbar-expand-lg ">
-                <div className="container-fluid">
+                <div className="container-navbar container-fluid">
                     <a href="pic"><img src="/image/logo.png" alt="" className="navbar-brand" /> </a>
                     <div className="collapse navbar-collapse" >
 

@@ -1,5 +1,6 @@
 import Card from "./component/card/Card";
 import Hero from "./component/hero/Hero";
+import MulCard from "./component/multiplecard/MulCard";
 import Navbar from "./component/navbar/Navbar";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       <Navbar />
       <Hero />
       <Card />
+      <MulCard />
     </div>
   );
 }

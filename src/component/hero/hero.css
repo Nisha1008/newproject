@@ -1,26 +1,29 @@
 .hero-section {
-    margin-top: 30px;
+    margin-top: 110px;
+    background: url("/public/image/asset 21.png");
+    background-color: #fffef5;
 }
 
 .hero {
-    margin-left: 80px;
+    margin-top: 40px;
+    margin-left: 110px;
 }
 
-.content {
-    margin-left: 200px;
+.content-hero {
+    margin-left: 250px;
     text-align: right;
 }
 
 .heading {
-    margin-top: 100px;
-    font-size: 45px;
+    margin-top: 130px;
+    font-size: 42px;
     font-weight: 700;
     color: #0d3d67;
 }
 
 .para {
     color: #0d3d67;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 500;
 }
 
