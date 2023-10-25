@@ -1,0 +1,49 @@
+.footercontainer {
+    background: url("/public/image/asset 21.png");
+}
+
+.footer {
+    /* border: 1px solid black; */
+    margin-top: 150px;
+    margin-left: 30px;
+    width: 95%;
+    height: 500px;
+    display: flex;
+}
+
+.right-container {
+    text-align: right;
+    margin-left: 520px;
+    padding: 40px 4px 40px;
+}
+
+.two-div {
+    display: flex;
+    margin-left: 100px;
+}
+
+.bottom-section {
+    height: 350px;
+    display: flex;
+    justify-content: space-between;
+    padding: 80px;
+    background-color: #f5f5ec;
+}
+
+h3 {
+    color: #0d3d67;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.foot {
+    color: #0d3d67;
+    font-size: small;
+    font-weight: 700;
+    line-height: 5px;
+}
+
+.line {
+    border: 2px solid #0d3d67;
+    width: 35px;
+}

@@ -5,6 +5,7 @@ import Navbar from "./component/navbar/Navbar";
 import Trending from "./component/trending/Trending";
 import TrendBook from "./component/multiplecard/TrendBook";
 import NewPremium from "./component/multiplecard/NewPremium";
+import Footer from "./component/footer/Footer";
 function App() {
   return (
     <div className="App">
@@ -15,6 +16,7 @@ function App() {
       <Trending />
       <TrendBook />
       <NewPremium />
+      <Footer />
     </div>
   );
 }
